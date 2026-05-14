@@ -1,36 +1,17 @@
 <html>
+
 <head>
-    <title>Точка 1</title>
+
 </head>
+
 <body>
-    <table>
-        <tr>
-            <td colspan="3" align="center">
-                <img src="1-1.jpeg" width=900>
-            </td>
-        </tr>
-        <tr>
-            <td width=300>
-                &nbsp;
-            </td>
-            <td width=300 align="center">
-                <a href='2-1.html'>вперед</a>
-            </td>
-            <td width=300>
-                &nbsp;
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href='1-4.html'>влево</a>
-            </td>
-            <td align="center">
-                <a href='1-3.html'>разворот</a>
-            </td>
-            <td align="center">
-                <a href='1-2.html'>вправо</a>
-            </td>
-        </tr>
-    </table>
+
+<video src="12.MOV" width="640" height="360" controls></video>
+
+<a href='12.html'>Подойти к скамейке</a>
+
+<a href='13.html'>Пройти мимо</a>
+
 </body>
+
 </html>
